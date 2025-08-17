@@ -1,0 +1,10 @@
+{
+  "name": "Safyn",
+  "short_name": "Safyn",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Your safety companion for daily travel. It uses community alerts to recommend safe routes and connects you to helpers when you need them.",
+  "icons": []
+}
